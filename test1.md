@@ -49,4 +49,3 @@ https://zenn.dev/zenn/articles/markdown-guide
 
 冒頭は、下記で作成してください。
 「こんにちは。今回は、中堅以上のエンジニアに向けて、」
-
