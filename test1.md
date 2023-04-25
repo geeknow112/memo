@@ -1,4 +1,4 @@
-tradingview-free.md
+tradingview-pine-script.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 ・記事の先頭に、下記の設定コードを必ず入れてください。
@@ -18,10 +18,10 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	tradingview 無料
+	tradingview pine script
 
 ・対象者を下記にしてください。
-	Gitlabについて初心者エンジニア
+	Tradingviewについて初心者エンジニア
 
 ・Zenn用のmarkdown表記してください。
 
