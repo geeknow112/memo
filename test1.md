@@ -1,8 +1,7 @@
-engineer-freelance-salon.md
-
+wordpress-plugin-how-to-sale.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-　「フリーランスエンジニアがオンラインサロンで案件獲得する戦略」
+　「Wordpressでプラグインを開発して稼ぐために販売するまでの手順」
 ・記事の先頭に、下記の設定コードを必ず入れてください。
 
 ---
@@ -20,10 +19,10 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	AWS Lightsail vim tmux
+	Wordpress、Plugin、マーケットプレイス、販売
 
 ・対象者を下記にしてください。
-	中堅以上のエンジニアで、会社員のままフリーランス案件を獲得したい人
+	Wordpressについて中級以上の知識を持ったエンジニア
 
 ・Zenn用のmarkdown表記してください。
 
@@ -48,4 +47,5 @@ https://zenn.dev/zenn/articles/markdown-guide
 ・注意文は、先頭には表示させてないでください。
 
 冒頭は、下記で作成してください。
-「こんにちは。今回は、中堅以上のエンジニアに向けて、」
+「こんにちは。今回は、Wordpressで稼ぎたい人に向けて、」
+
