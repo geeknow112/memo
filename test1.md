@@ -1,7 +1,6 @@
-wordpress-plugin-how-to-sale.md
+tradingview-free.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-　「Wordpressでプラグインを開発して稼ぐために販売するまでの手順」
 ・記事の先頭に、下記の設定コードを必ず入れてください。
 
 ---
@@ -19,10 +18,10 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	Wordpress、Plugin、マーケットプレイス、販売
+	tradingview 無料
 
 ・対象者を下記にしてください。
-	Wordpressについて中級以上の知識を持ったエンジニア
+	Gitlabについて初心者エンジニア
 
 ・Zenn用のmarkdown表記してください。
 
@@ -47,5 +46,5 @@ https://zenn.dev/zenn/articles/markdown-guide
 ・注意文は、先頭には表示させてないでください。
 
 冒頭は、下記で作成してください。
-「こんにちは。今回は、Wordpressで稼ぎたい人に向けて、」
+「こんにちは。今回は、Tradingviewについて初心者エンジニア向けて、」
 
