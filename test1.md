@@ -6,7 +6,7 @@ react-about.md
 ---
 title: "(ここに作成したタイトルを挿入してください。)"
 emoji: ""
-type: "idea" # tech: 技術記事 / idea: アイデア
+type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["(ここに利用したキーワードをタグとして挿入してください。)", "", ""]
 published: true
 ---
