@@ -1,4 +1,4 @@
-engineer-side-business-qiita.md
+react-about.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 ・記事の先頭に、下記の設定コードを必ず入れてください。
@@ -6,7 +6,7 @@ engineer-side-business-qiita.md
 ---
 title: "(ここに作成したタイトルを挿入してください。)"
 emoji: ""
-type: "idea" # tech: 技術記事 / idea: アイデア
+type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["(ここに利用したキーワードをタグとして挿入してください。)", "", ""]
 published: true
 ---
@@ -18,7 +18,7 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	qiita 副業
+	react とは
 
 ・対象者を下記にしてください。
 	初心者エンジニア
