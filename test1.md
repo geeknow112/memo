@@ -1,4 +1,4 @@
-github-vscode-git-pull.md
+github-issue-how-to-write.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 ・記事の先頭に、下記の設定コードを必ず入れてください。
@@ -18,7 +18,7 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	github vscode git pull
+	github issue 書き方
 
 ・対象者を下記にしてください。
 	Githubについて初心者エンジニア
