@@ -1,4 +1,4 @@
-dockerfile-how-to-write.md
+github-ssh-windows.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 ・記事の先頭に、下記の設定コードを必ず入れてください。
@@ -18,10 +18,10 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	dockerfile 書き方
+	github ssh windows 設定方法
 
 ・対象者を下記にしてください。
-	Dockerについて初心者エンジニア
+	Githubについて初心者エンジニア
 
 ・Zenn用のmarkdown表記してください。
 
@@ -46,6 +46,6 @@ https://zenn.dev/zenn/articles/markdown-guide
 ・注意文は、先頭には表示させてないでください。
 
 冒頭は、下記で作成してください。
-「こんにちは。今回は、Dockerについて初心者エンジニアに向けて、」
+「こんにちは。今回は、Githubについて初心者エンジニアに向けて、」
 
 ・参考となるブログ記事のURLを2個以上掲載してください。
