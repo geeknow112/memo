@@ -1,4 +1,4 @@
-github-copilot-pair-programming.md
+github-copilot-price.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 ・記事の先頭に、下記の設定コードを必ず入れてください。
@@ -18,7 +18,7 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	github copilot ペアプログラミング
+	github copilot 料金
 
 ・対象者を下記にしてください。
 	Githubについて初心者エンジニア
