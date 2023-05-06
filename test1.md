@@ -1,6 +1,7 @@
-chatgpt-openai-api-reference.md
+chatgpt-dx-automation.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
+「ChatGPT」を使って、自社のサービスを自動化しよう！
 ・記事の先頭に、下記の設定コードを必ず入れてください。
 
 ---
@@ -18,7 +19,7 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	chatgpt OpenAI API リファレンス
+	chatgpt OpenAI 自動化
 
 ・対象者を下記にしてください。
 	chatGPTについて初心者エンジニア
