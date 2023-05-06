@@ -1,7 +1,7 @@
-chatgpt-dx-automation.md
+chatgpt-ai-bot.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-「ChatGPT」を使って、自社のサービスを自動化しよう！
+「ChatGPT」によるAIチャットボットの設計と開発方法を解説！
 ・記事の先頭に、下記の設定コードを必ず入れてください。
 
 ---
@@ -19,7 +19,7 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	chatgpt OpenAI 自動化
+	chatgpt OpenAI チャットボット
 
 ・対象者を下記にしてください。
 	chatGPTについて初心者エンジニア
