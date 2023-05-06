@@ -1,4 +1,4 @@
-chatgpt-use-api-python.md
+chatgpt-openai-api-reference.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 ・記事の先頭に、下記の設定コードを必ず入れてください。
@@ -18,7 +18,7 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	chatgpt api python サンプルコード
+	chatgpt OpenAI API リファレンス
 
 ・対象者を下記にしてください。
 	chatGPTについて初心者エンジニア
