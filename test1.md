@@ -1,7 +1,8 @@
-chatgpt-process-evolution.md
+chatgpt-for-business.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-「ChatGPT」がもたらす自然言語処理技術の進化について知ろう！
+「ChatGPT」とは？ビジネスに役立つ自然言語処理技術を解説する。
+
 ・記事の先頭に、下記の設定コードを必ず入れてください。
 
 ---
@@ -19,7 +20,7 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	chatgpt OpenAI 自然言語処理
+	chatgpt OpenAI ビジネス
 
 ・対象者を下記にしてください。
 	chatGPTについて初心者エンジニア
