@@ -1,4 +1,4 @@
-chatgpt-for-business.md
+flutter-about.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 「ChatGPT」とは？ビジネスに役立つ自然言語処理技術を解説する。
@@ -20,10 +20,10 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	chatgpt OpenAI ビジネス
-
+	flutter 使い方
+	
 ・対象者を下記にしてください。
-	chatGPTについて初心者エンジニア
+	flutterについて初心者エンジニア
 
 ・Zenn用のmarkdown表記してください。
 
@@ -48,6 +48,6 @@ https://zenn.dev/zenn/articles/markdown-guide
 ・注意文は、先頭には表示させてないでください。
 
 冒頭は、下記で作成してください。
-「こんにちは。今回は、chatGPTについて初心者エンジニアに向けて、」
+「こんにちは。今回は、flutterについて初心者エンジニアに向けて、」
 
 ・参考となるブログ記事のURLを2個以上掲載してください。
