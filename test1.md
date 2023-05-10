@@ -1,4 +1,4 @@
-github-gist-editor.md
+github-actions-on-push.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
 ・記事の先頭に、下記の設定コードを必ず入れてください。
@@ -18,7 +18,7 @@ published: true
 
 
 ・キーワードを下記にしてください。
-	github gistをエディタで利用する
+	github actionsでpushした時に実行するには
 	
 ・対象者を下記にしてください。
 	Githubについて初心者エンジニア
