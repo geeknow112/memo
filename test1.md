@@ -1,10 +1,10 @@
-google-use-bard.md
+google-bard-api.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【比較】Google Bardとは？ChatGPTとの比較
+【基礎】Google BardをAPIで利用するには
 
 ・キーワードを下記にしてください。
-	Google Bard 比較
+	Google Bard API 使い方 python
 	
 ・対象者を下記にしてください。
 	Google Bardについて初心者エンジニア
