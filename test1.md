@@ -1,23 +1,36 @@
-google-bard-api.md
+wordpress-transfer-by-dump.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【基礎】Google BardをAPIで利用するには
+【基礎】Wordpressの記事データだけ、dumpファイルで移行するには
 
 ・キーワードを下記にしてください。
-	Google Bard API 使い方 python
-	
+wordpress,mysql,dump
+ 
 ・対象者を下記にしてください。
-	Google Bardについて初心者エンジニア
+	Wordpressについて初心者エンジニア
 
 ・Zenn用のmarkdown表記してください。
 
-・見出しH2タグは5個、つけてください。
-・見出し「はじめに」を挿入してください。
-・見出し「まとめ」を挿入してください。
+
+
+## WordpressのDBテーブル定義
+(※ここに文章を作成してください。)
+(※表形式で表示してください。)
+
+## Wordpressの記事データの格納先
+(※ここに文章を作成してください。)
+(※表形式で表示してください。)
+
+## Wordpressの記事データだけdumpで移行するには
+(※ここに文章を作成してください。)
+
+## 注意点
+(※ここに文章を作成してください。)
+
+
 
 ・日本語で、必ず2,000文字以上で作ってください。
 
-・サンプルコードを必ず2つ以上表示させてください。
 
 ・Zennのmarkdown形式に則って作成してください。下記、ガイドのURLです。
 https://zenn.dev/zenn/articles/markdown-guide
@@ -31,6 +44,6 @@ https://zenn.dev/zenn/articles/markdown-guide
 ・注意文は、先頭には表示させてないでください。
 
 冒頭は、下記で作成してください。
-「こんにちは。今回は、Google Bardについて初心者エンジニアに向けて、」
+「こんにちは。今回は、Wordpressについて初心者エンジニアに向けて、」
 
 ・参考となるブログ記事のURLを2個以上掲載してください。
