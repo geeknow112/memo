@@ -1,19 +1,34 @@
-wordpress-transfer-by-dump.md
+wordpress-bitnami-table-definition.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【基礎】Wordpressの記事データだけ、dumpファイルで移行するには
+「bitnami wordpress のmysqlテーブル定義の解説！sqlで直接編集する方法」
 
 ・キーワードを下記にしてください。
-wordpress,mysql,dump
+wordpress,mysql,dump,bitnami
  
 ・対象者を下記にしてください。
-	Wordpressについて初心者エンジニア
+        Wordpressについて初心者エンジニア
 
 ・Zenn用のmarkdown表記してください。
 
 
 
 ## WordpressのDBテーブル定義
+|Tables_in_bitnami_wordpress|
++-----------------------------+
+|wp_commentmeta|
+|wp_comments|
+|wp_links|
+|wp_options|
+|wp_postmeta|
+|wp_posts|
+|wp_term_relationships|
+|wp_term_taxonomy|
+|wp_termmeta|
+|wp_terms|
+|wp_usermeta|
+|wp_users|
+
 (※ここに文章を作成してください。)
 (※表形式で表示してください。)
 
@@ -47,3 +62,4 @@ https://zenn.dev/zenn/articles/markdown-guide
 「こんにちは。今回は、Wordpressについて初心者エンジニアに向けて、」
 
 ・参考となるブログ記事のURLを2個以上掲載してください。
+
