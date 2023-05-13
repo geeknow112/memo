@@ -1,28 +1,29 @@
-wordpress-image-aws-s3.md
+aws-workdocs-about.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【解説】wordpressの画像をAWS S3に置く方法
+【基礎】AWS Workdocsとは！？クラウドストレージの料金比較
 
 ・キーワードを下記にしてください。
-wordpress,aws,s3
+aws,workdocs,料金,比較
  
 ・対象者を下記にしてください。
-        Wordpressについて初心者エンジニア
+        AWSについて初心者エンジニア
 
 ・Zenn用のmarkdown表記してください。
 
 
 
-## AWS S3とは？
+## AWS workdocsとは？
 (※ここに文章を作成してください。)
 
-## Wordpressの画像データの格納先
+## AWS workdocsと類似サービス
 (※ここに文章を作成してください。)
 
-## Wordpressの画像データを移行するには
+## AWS workdocsと類似サービスの料金比較
 (※ここに文章を作成してください。)
+(※比較を表形式で表示してください。)
 
-## おススメのプラグイン
+## 比較結果からおススメは？
 (※ここに文章を作成してください。)
 
 
@@ -42,7 +43,7 @@ https://zenn.dev/zenn/articles/markdown-guide
 ・注意文は、先頭には表示させてないでください。
 
 冒頭は、下記で作成してください。
-「こんにちは。今回は、Wordpressについて初心者エンジニアに向けて、」
+「こんにちは。今回は、AWSについて初心者エンジニアに向けて、」
 
 ・参考となるブログ記事のURLを2個以上掲載してください。
 
