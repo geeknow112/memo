@@ -1,29 +1,28 @@
-github-sync-wordpress.md
+aws-route53-url-redirect.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【基礎】GithubとWordpressを同期して記事を管理する方法
+【基礎】AWS Route53でリダイレクトする方法 
 
 ・キーワードを下記にしてください。
-github,wordpress,同期
+aws,route53,手順
  
 ・対象者を下記にしてください。
-        Githubについて初心者エンジニア
+        AWSについて初心者エンジニア
 
 ・Zenn用のmarkdown表記してください。
 
 
 
-## Github とWordpressを同期するメリット
+## AWS Route53とは？
 (※ここに文章を作成してください。)
 
-## Github とWordpressを同期する方法
+## AWS Route53でリダイレクトする方法
 (※ここに文章を作成してください。)
 
-## Github とWordpressを同期するときの料金は？
+## AWS Route53でリダイレクトする手順
 (※ここに文章を作成してください。)
-(※比較を表形式で表示してください。)
 
-## オススメの環境は？
+## 注意点
 (※ここに文章を作成してください。)
 
 
@@ -43,7 +42,7 @@ https://zenn.dev/zenn/articles/markdown-guide
 ・注意文は、先頭には表示させてないでください。
 
 冒頭は、下記で作成してください。
-「こんにちは。今回は、Githubについて初心者エンジニアに向けて、」
+「こんにちは。今回は、AWSについて初心者エンジニアに向けて、」
 
 ・参考となるブログ記事のURLを2個以上掲載してください。
 
