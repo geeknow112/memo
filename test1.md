@@ -1,28 +1,28 @@
-aws-msad-about.md
+google-bard-about.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【基礎】AWS MSADとは？Active Directoryを簡単に使うには
+【基礎】Google bardとは？無料でどこまでつかえるのか？
 
 ・キーワードを下記にしてください。
-aws,msad,簡単,手順
+google,bard,無料
  
 ・対象者を下記にしてください。
-        AWSについて初心者エンジニア
+        Google Bardについて初心者エンジニア
 
 ・Zenn用のmarkdown表記してください。
 
 
 
-## AWS msad とは？
+## Google Bard とは？
 (※ここに文章を作成してください。)
 
-## AWS msadの料金は？
+## Google Bard の料金は？無料、有料プランは？
 (※ここに文章を作成してください。)
 
-## AWS msadとActiveDirectoryでできることの違い
+## Google Bard でできること
 (※ここに文章を作成してください。)
 
-## 使用上の注意点
+## Google Bard は今後どう進化する？
 (※ここに文章を作成してください。)
 
 
@@ -42,7 +42,7 @@ https://zenn.dev/zenn/articles/markdown-guide
 ・注意文は、先頭には表示させてないでください。
 
 冒頭は、下記で作成してください。
-「こんにちは。今回は、AWSについて初心者エンジニアに向けて、」
+「こんにちは。今回は、Google Bardについて初心者エンジニアに向けて、」
 
 ・参考となるブログ記事のURLを2個以上掲載してください。
 
