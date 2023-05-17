@@ -1,28 +1,28 @@
-aws-workdocs-sync.md
+google-bard-fist-step.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【基礎】AWS workdocsにバックアップする時の同期について
+【簡単】google bardの始め方を解説！賢い使い方
 
 ・キーワードを下記にしてください。
-aws,workdocs
+google,bard,簡単,始め方
  
 ・対象者を下記にしてください。
-        AWS workdocsについて初心者エンジニア
+        Google Bardについて初心者エンジニア
 
 ・Zenn用のmarkdown表記してください。
 
 
 
-## AWS workdocs にデータをバックアップするには
+## Google Bard を使うための最初の準備
 (※ここに文章を作成してください。)
 
-## AWS workdocs のバックアップしたファイルの同期方法
+## Google Bard を使ってみよう
 (※ここに文章を作成してください。)
 
-## AWS workdocs のバックアップの時の差分同期がされる？
+## Google Bard オススメのプロンプト
 (※ここに文章を作成してください。)
 
-## AWS workdocs で継続的にバックアップするには？
+## Google Bard 一歩進んだ使い方の提案
 (※ここに文章を作成してください。)
 
 
@@ -42,7 +42,7 @@ https://zenn.dev/zenn/articles/markdown-guide
 ・注意文は、先頭には表示させてないでください。
 
 冒頭は、下記で作成してください。
-「こんにちは。今回は、AWS workdocsについて初心者エンジニアに向けて、」
+「こんにちは。今回は、Google Bardについて初心者エンジニアに向けて、」
 
 ・参考となるブログ記事のURLを2個以上掲載してください。
 
