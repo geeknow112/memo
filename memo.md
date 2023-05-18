@@ -1,34 +1,26 @@
-google-bard-fist-step.md
+google-bard-productivity-improvement.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【簡単】google bardの始め方を解説！賢い使い方
+【起業家向け】Google Bardで実現する生産性の向上とコスト削減
 
 ・キーワードを下記にしてください。
-google,bard,簡単,始め方
+google,bard,ワークフロー,データ処理
  
 ・対象者を下記にしてください。
         Google Bardについて初心者エンジニア
 
-・Zenn用のmarkdown表記してください。
-
-
-
-## Google Bard を使うための最初の準備
-(※ここに文章を作成してください。)
-
-## Google Bard を使ってみよう
-(※ここに文章を作成してください。)
-
-## Google Bard オススメのプロンプト
-(※ここに文章を作成してください。)
-
-## Google Bard 一歩進んだ使い方の提案
-(※ここに文章を作成してください。)
-
-
 
 ・日本語で、必ず2,000文字以上で作ってください。
 
+冒頭は、下記で作成してください。
+「こんにちは。今回は、Google Bardについて初心者エンジニアに向けて、」
+
+・参考となるブログ記事のURLを2個以上掲載してください。
+
+
+
+
+・Zenn用のmarkdown表記してください。
 
 ・Zennのmarkdown形式に則って作成してください。下記、ガイドのURLです。
 https://zenn.dev/zenn/articles/markdown-guide
@@ -41,8 +33,4 @@ https://zenn.dev/zenn/articles/markdown-guide
 ・注意文を、1箇所以上表示させてください。
 ・注意文は、先頭には表示させてないでください。
 
-冒頭は、下記で作成してください。
-「こんにちは。今回は、Google Bardについて初心者エンジニアに向けて、」
-
-・参考となるブログ記事のURLを2個以上掲載してください。
 
