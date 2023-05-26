@@ -1,19 +1,19 @@
-google-bard-first-process.md
+aws-quicksight-about.md
 
 ・下記の条件でタイトルと、ブログ記事を書いてください。
-【手順】google bardを始める手順を簡単にまとめました！
+【比較】AWS QuickSightとGoogle analyticsとの違い！相乗効果で分析力アップ
 
 ・キーワードを下記にしてください。
-google,bard,簡単,手順
+AWs,quicksight,google,analytics,比較
 
 ・対象者を下記にしてください。
-  Google Bardについて初心者エンジニア
+  AWSについて初心者エンジニア
 
 
 ・日本語で、必ず2,000文字以上で作ってください。
 
 冒頭は、下記で作成してください。
-「こんにちは。今回は、Google Bardについて初心者エンジニアに向けて、」
+「こんにちは。今回は、AWSについて初心者エンジニアに向けて、」
 
 ・参考となるブログ記事のURLを2個以上掲載してください。
 
