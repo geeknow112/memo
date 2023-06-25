@@ -1,3 +1,15 @@
+def test():
+    print('test')
+
+def test1():
+    print('test')
+
+def test2():
+    print('test')
+
+def test3():
+    print('test')
+
 def main():
     print('test')
 
