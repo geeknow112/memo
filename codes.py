@@ -1,5 +1,6 @@
 def test():
     print('test')
+    print('test')
 
 def test1():
     print('test')
